@@ -1,0 +1,21 @@
+form {
+  background-color: #f2f2f2;
+  padding: 1rem;
+}
+
+header {
+  height: 80px
+}
+
+.rwd {
+  font-size: 4rem;
+}
+
+body {
+  font-family: Oswald, sans-serif;
+}
+
+.submit-button {
+  background-color: deepskyblue;
+  color: white
+}
